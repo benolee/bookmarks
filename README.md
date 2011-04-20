@@ -21,14 +21,17 @@ Interesting Github Repositories
 * [Payday: a library for rendering invoices](https://github.com/commondream/payday)
 * [Nesta CMS: A lightweight CMS, implemented in Sinatra](https://github.com/gma/nesta)
 * [irbfiles: libraries of ruby snippets for irb](https://github.com/cldwalker/irbfiles)
+* [Ruby Facets](https://github.com/rubyworks/facets)
 
 Other
 -----
 * [Vimcasts](http://vimcasts.org/)
 * [Heroku: How it Works](http://heroku.com/how/dynos)
+* [List of software engineering topics](http://en.wikipedia.org/wiki/List_of_software_engineering_topics)
 
 Code Snippets and Docs
 ----------------------
+* [Read Ruby 1.9](http://ruby.runpaint.org/)
 * [CSV to Hash](https://gist.github.com/raw/108198/849795194de5e68e8c7e0b742142d282c8d677a0/gistfile1.rb)
 * [ActiveSupport delegate](http://rdoc.info/docs/rails/3.0.0/Module:delegate)
 * [ActiveSupport::FileUpdateChecker](http://rdoc.info/docs/rails/3.0.0/ActiveSupport/FileUpdateChecker)
